@@ -1,5 +1,6 @@
 MTEzODMxODgzODM1NDY4MTk2Nw.xXw.LBspuomv9SxWhcWdUW32IgelelRJkBc6EizXtk
-MTEzODMxODgzODM1NDY4MTk2Nw.GkGxX.LBspuomv9SxWhcWdUW32IgelelRJkBc6EizXtk
+MTEzODMxODgzODM1NDY4MTk2Nw.GkGxXw.LBspuomv9SxWhcWdUW32IgelelRJkBc6EizXtk.GkGxX
+.LBspuomv9SxWhcWdUW32IgelelRJkBc6EizXtk
 FROM rust:1.68.2-bullseye as builder
 
 RUN apt-get update && \
